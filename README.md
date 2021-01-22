@@ -1,2 +1,2 @@
-# BystricaUN
+# OperationVilenjak
 Corpus milsim Bystrica UN op
